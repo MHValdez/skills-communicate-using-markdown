@@ -7,3 +7,10 @@
 ``` cpp
 string caption {"Image of a Baby Chick"};
 ```
+
+- [x] Grind Leetcode
+- [x] Contribute to hackathon entry
+- [ ] Build robot
+- [ ] Program robot
+- [ ] Take a break
+
